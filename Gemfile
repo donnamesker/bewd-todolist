@@ -75,3 +75,7 @@ group :production do
 end
 
 gem 'concurrent-ruby', '1.3.4'
+
+# rails-admin
+gem 'rails_admin', '~> 3.3'
+gem "sassc-rails"
